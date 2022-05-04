@@ -1,0 +1,7 @@
+.TokenCard {
+}
+
+.CardImage {
+  width: 100%;
+  object-fit: cover;
+}

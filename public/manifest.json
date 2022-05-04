@@ -1,0 +1,8 @@
+{
+  "short_name": "Collection Explorer",
+  "name": "Collection explorer for your NFTs",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
